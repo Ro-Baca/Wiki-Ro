@@ -1,18 +1,13 @@
-# Quartz v4
+# Notas
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Este es m i espacio personal para depositar mis proyectos y pensamientos.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Esto lo hice con ayuda de quartz, un gestor de paginas estaticas, obsidian un editor de texto y github pages un servicio de alojamiento gratuito
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 🔗 Links utiles
+Mi jardin digial: https://ro-baca.github.io/Notas
 
-## Sponsors
+Documentacion de quartz: https://quartz.jzhao.xyz/
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Que es un jardin digital? https://github.com/MaggieAppleton/digital-gardeners

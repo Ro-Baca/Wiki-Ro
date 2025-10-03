@@ -1,3 +1,52 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Changes should be done here since not directly in the layout file
+
+// --- Colores para Light Mode ---
+:root {
+  // Fondo principal de la página
+  --light: #faf8f8;
+
+  // Color de los bordes, fondos de elementos secundarios (ej. sidebar)
+  --lightgray: #e5e5e5;
+
+  // Color de texto secundario (ej. subtítulos, metadatos)
+  --gray: #b8b8b8;
+
+  // Color de texto principal (cuerpo del texto)
+  --dark: #343434;
+
+  // Color de acento principal (ej. enlaces, iconos activos)
+  --secondary: #5d78ae;
+
+  // Color de acento secundario (ej. enlaces al pasar el ratón)
+  --tertiary: #8da4d1;
+
+  // Color para el resaltado de código o texto seleccionado
+  --highlight: rgba(143, 159, 169, 0.15);
+}
+
+
+// --- Colores para el Dark Mode ---
+:root[saved-theme="dark"] {
+  // Fondo principal de la página
+  --light: #1e1e2e;
+
+  // Color de los bordes, fondos de elementos secundarios
+  --lightgray: #313244;
+
+  // Color de texto secundario
+  --gray: #9399b2;
+
+  // Color de texto principal
+  --dark: #cdd6f4;
+
+  // Color de acento principal
+  --secondary: #89b4fa;
+
+  // Color de acento secundario
+  --tertiary: #b4befe;
+
+  // Color para el resaltado de código o texto seleccionado
+  --highlight: rgba(137, 180, 250, 0.15);
+}

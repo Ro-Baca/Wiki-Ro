@@ -1,5 +1,5 @@
 ---
-title: PAgina de pruebas
+title: Pagina de pruebas
 draft: false
 tags:
   - test
