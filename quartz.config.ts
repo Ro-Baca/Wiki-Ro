@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notas Ro",
+    pageTitle: "Wiki Ro",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -30,7 +30,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#c5d2ce",
-          lightgray: "#b3c6b4",
+          lightgray: "#6a9395",
           gray: "#8eb29a",
           darkgray: "#372f3a",
           dark: "#464459",
