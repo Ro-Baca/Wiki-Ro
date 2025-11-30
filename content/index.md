@@ -1,6 +1,6 @@
 ---
-title: Notas
+title: Home
 ---
 
-Esta es mi libreta electronica
+Esta es mi libreta electrónica
 

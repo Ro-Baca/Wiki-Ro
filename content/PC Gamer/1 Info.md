@@ -3,6 +3,7 @@ title: Info general
 draft: false
 tags:
   - PC
+  - recordatorio
 ---
 
 ----
