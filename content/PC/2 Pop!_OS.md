@@ -4,6 +4,7 @@ draft: false
 tags:
   - PC
   - recordatorio
+  - linux
 ---
 ## El sistema operativo
 ----
