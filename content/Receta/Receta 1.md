@@ -1,0 +1,3 @@
+---
+title: Receta 1
+---

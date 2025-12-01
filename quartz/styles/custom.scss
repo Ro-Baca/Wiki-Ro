@@ -1,2 +1,123 @@
 @use "./base.scss";
 
+/* 
+    CYBERPUNK
+*/
+
+/* VARIABLES DE COLOR */
+
+$neon-cyan-main: rgba(138, 199, 201, 1);    
+$neon-cyan-glow: rgba(138, 199, 201, 0.4);  
+$cyan-ink: #4a7a7d; 
+
+/* MAGENTA para Links */
+$neon-pink-main: #ff80bf; 
+$neon-pink-glow: rgba(255, 128, 191, 0.4);
+$pink-ink: #c44569; 
+
+/* LINKS */
+
+a.internal, a.external {
+  text-decoration: none;
+  border-bottom: 1px dashed;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); /* Transición snappy */
+}
+
+/* DARK MODE LINKS */
+[saved-theme="dark"] a.internal, [saved-theme="dark"] a.external {
+  color: $neon-pink-main !important;
+  border-color: rgba(255, 128, 191, 0.3);
+}
+[saved-theme="dark"] a.internal:hover, [saved-theme="dark"] a.external:hover {
+  color: #fff !important;
+  text-shadow: 0 0 10px $neon-pink-main, 0 0 20px $neon-pink-main; /* Doble brillo */
+  border-color: $neon-pink-main;
+}
+
+/* LIGHT MODE LINKS */
+[saved-theme="light"] a.internal, [saved-theme="light"] a.external {
+  color: $pink-ink !important;
+  border-color: rgba(196, 69, 105, 0.3);
+}
+[saved-theme="light"] a.internal:hover, [saved-theme="light"] a.external:hover {
+  background-color: rgba(196, 69, 105, 0.1); 
+  color: #a02b4e !important;
+  border-color: $pink-ink;
+  box-shadow: 0 2px 10px rgba(196, 69, 105, 0.25); 
+  border-bottom-style: solid;
+}
+
+
+/* TEXTOS */
+
+h1, h2, h3, h4, h5, h6 { font-weight: 700; letter-spacing: -0.02em; }
+strong, b { font-weight: 800; }
+
+/* Dark Text */
+[saved-theme="dark"] h1, [saved-theme="dark"] h2, [saved-theme="dark"] h3 {
+    color: $neon-cyan-main;
+    text-shadow: 0 0 15px rgba(138, 199, 201, 0.3);
+}
+[saved-theme="dark"] strong, [saved-theme="dark"] b { color: $neon-cyan-main; }
+
+/* Light Text */
+[saved-theme="light"] h1, [saved-theme="light"] h2, [saved-theme="light"] h3 { color: $cyan-ink; }
+[saved-theme="light"] strong, [saved-theme="light"] b { color: $cyan-ink; }
+
+
+/* CAJAS (CALLOUTS y CODE) */
+
+.popover, .callout, article, pre {
+  border-radius: 10px !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+/* --- DARK MODE CAJAS --- */
+[saved-theme="dark"] pre, [saved-theme="dark"] .callout {
+  border: 2px solid $neon-cyan-main !important;
+  box-shadow: 0 0 5px $neon-cyan-glow, inset 0 0 10px $neon-cyan-glow !important;
+}
+[saved-theme="dark"] pre:hover, [saved-theme="dark"] .callout:hover {
+    box-shadow: 0 0 20px $neon-cyan-main, inset 0 0 30px $neon-cyan-glow !important;
+    
+    
+}
+
+/* LIGHT MODE CAJAS */
+[saved-theme="light"] pre, [saved-theme="light"] .callout {
+  border: 2px solid $cyan-ink !important;
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 4px 6px rgba(74, 122, 125, 0.1); 
+}
+
+/* SUPER GLOW DE DÍA */
+[saved-theme="light"] pre:hover, [saved-theme="light"] .callout:hover {
+    border-color: #2e5c5f !important; /* borde oscuro y nítido */
+    background-color: #fff; /* blanco puro para resaltar del fondo */
+     
+    box-shadow: 
+      0 0 0 1px rgba(74, 122, 125, 0.2), 
+      0 10px 25px rgba(74, 122, 125, 0.4), 
+      inset 0 0 15px rgba(74, 122, 125, 0.1) !important; 
+}
+
+
+/* EXTRAS */
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background-color: rgba(138, 199, 201, 0.5);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover { background-color: $neon-cyan-main; }
+
+/* Selección de texto */
+::selection { background: rgba(255, 128, 191, 0.3); color: inherit; }
+
+/* Gráfico de Nodos */
+.graph-view-container .node circle { fill: $neon-cyan-main !important; }
+[saved-theme="dark"] .graph-view-container .link { stroke: $neon-cyan-main !important; opacity: 0.3; }
+[saved-theme="light"] .graph-view-container .link { stroke: $cyan-ink !important; opacity: 0.2; }
+
