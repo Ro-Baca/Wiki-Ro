@@ -3,8 +3,8 @@ title: Pop!_OS
 draft: false
 tags:
   - PC
-  - recordatorio
   - linux
+  - apunte
 ---
 ## El sistema operativo
 ----

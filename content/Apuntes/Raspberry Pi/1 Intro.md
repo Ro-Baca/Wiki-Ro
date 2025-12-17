@@ -2,9 +2,9 @@
 title: Resumen
 tags:
   - Raspberry
-  - recordatorio
   - hardware
   - linux
+  - apunte
 ---
 # Raspberry Pi
 
@@ -27,6 +27,8 @@ Originalmente diseñada para la educación, su uso se ha expandido a la robótic
 ---
 
 ## Familias de Hardware
+### Single Board Computers (SBC)
+Son ordenadores completos. Tienen procesador, RAM, puertos USB y salida de video. Funcionan con un Sistema Operativo.
 
 | Característica   | Raspberry Pi 4/5     | Raspberry Pi Zero 2 W  | Raspberry Pi Pico W     |
 | :--------------- | :------------------- | :--------------------- | :---------------------- |
@@ -35,12 +37,6 @@ Originalmente diseñada para la educación, su uso se ha expandido a la robótic
 | **Voltaje GPIO** | 3.3V                 | 3.3V                   | 3.3V                    |
 | **Uso ideal**    | Servidor, AI, Visión | IoT, Wearables, Robots | Sensores, Motores       |
 | **Consumo**      | Alto (~600mA - 3A)   | Medio (~100mA - 400mA) | Muy bajo (~20mA - 90mA) |
-
-### Single Board Computers (SBC)
-Son ordenadores completos. Tienen procesador, RAM, puertos USB y salida de video. Funcionan con un Sistema Operativo.
-
-* **Raspberry Pi 4 / 5:** Las más potentes. Ideales para servidores, escritorio o visión artificial.
-* **Raspberry Pi Zero 2 W:** Versión ultra compacta y de bajo consumo. Ideal para proyectos embebidos donde el espacio es crítico.
 
 ### Microcontroladores
 No tienen sistema operativo. Ejecutan un solo programa en bucle.
