@@ -1,5 +1,5 @@
 ---
-title: Home-bot
+title: Home-bot Inicio
 tags:
   - Robot
   - Proyecto

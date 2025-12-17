@@ -1,8 +1,9 @@
 ---
-title: Notas de quartz
+title: 1 Intro quartz
 draft: false
 tags:
   - Quartz
+  - apunte
 ---
 ---
 Esta seccion es para toda la informacion relacionada con quartz y como usarlo

@@ -1,9 +1,9 @@
 ---
-title: Como editar estilo
+title: 3 Como editar estilo
 draft: false
 tags:
   - Quartz
-  - recordatorio
+  - apunte
 ---
 ---
 ## Archivos 
