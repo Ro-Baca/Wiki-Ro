@@ -1,8 +1,9 @@
 ---
-title: ¿Como aprender Game Dev?
+title: ¿Cómo aprender?
 tags:
   - videojuego
-  - aprendizaje
+  - apunte
+noteOrder: "1"
 ---
 ## Como aprender desarrollo de juegos:
 

@@ -5,6 +5,7 @@ tags:
   - PC
   - linux
   - apunte
+noteOrder: "2"
 ---
 ## El sistema operativo
 ----

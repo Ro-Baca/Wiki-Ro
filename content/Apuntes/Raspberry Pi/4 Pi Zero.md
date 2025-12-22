@@ -3,7 +3,8 @@ title: Pi Zero
 tags:
   - apunte
   - hardware
-draft:
+draft: false
+noteOrder: "4"
 ---
 
 La versión más pequeña y barata. Ideal para proyectos **headless** o donde el espacio es crítico.

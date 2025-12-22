@@ -1,11 +1,12 @@
 ---
-title: 3 Como editar estilo
+title: Como editar estilo
 draft: false
 tags:
   - Quartz
   - apunte
+noteOrder: "3"
 ---
----
+
 ## Archivos 
 
 - **`quartz.config.ts`:** Define las **configuraciones globales** y los **plugins que quieres activar**.

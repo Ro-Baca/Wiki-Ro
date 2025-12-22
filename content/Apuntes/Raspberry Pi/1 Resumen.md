@@ -5,6 +5,7 @@ tags:
   - hardware
   - linux
   - apunte
+noteOrder: "1"
 ---
 # Raspberry Pi
 
