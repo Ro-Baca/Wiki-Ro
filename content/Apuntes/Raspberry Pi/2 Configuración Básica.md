@@ -2,6 +2,7 @@
 title: Configuración Básica
 tags:
   - apunte
+noteOrder: "2"
 ---
 
 ## 1. Flasheo del OS 

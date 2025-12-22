@@ -5,6 +5,8 @@ title: Home
 Esta es mi libreta electrónica
 Estilo: Cyberpunk Botánico / Solarpunk
 
-> [!abstract] [Ro-Baca](https://github.com/Ro-Baca?tab=repositories)
+> [!abstract] Links
+> [Github Ro-Baca](https://github.com/Ro-Baca?tab=repositories)
+> 
+> [Notion Ro](https://www.notion.so/Home-292030826693809b9c37d1cf972e3cb5)
 
-[![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=tu-repo)](https://github.com/tu-usuario/tu-repo)

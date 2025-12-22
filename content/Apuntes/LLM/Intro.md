@@ -1,8 +1,6 @@
 ---
-title: Teoría
+title: Intro
 tags:
-  - Musica
   - apunte
-draft: false
 noteOrder: "1"
 ---

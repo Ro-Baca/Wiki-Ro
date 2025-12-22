@@ -2,6 +2,7 @@
 title: Calentamientos
 tags:
   - Musica
-  - aprendizaje
-draft: true
+  - apunte
+draft: false
+noteOrder: "2"
 ---

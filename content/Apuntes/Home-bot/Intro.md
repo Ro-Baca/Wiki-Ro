@@ -1,6 +1,7 @@
 ---
-title: Home-bot Inicio
+title: Intro
 tags:
   - Robot
   - Proyecto
+noteOrder: "1"
 ---
