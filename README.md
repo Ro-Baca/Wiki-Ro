@@ -1,6 +1,6 @@
 # Wiki-Ro
 
-Este repositorio aloja las notas fuente de mi **[Jardín Digital](https://github.com/MaggieAppleton/digital-gardeners)**. A diferencia de un blog tradicional, esta es una colección de pensamientos en evolución, apuntes de investigación y experimentos de mis intereses personales.
+Este repositorio aloja las notas fuente de mi **[Jardín Digital](https://github.com/MaggieAppleton/digital-gardeners)**. A diferencia de un blog tradicional, esta es una colección de pensamientos en evolución, apuntes de investigación y experimentos de mi intereses personal.
 
 **[Visita el Jardín aquí](https://ro-baca.github.io/Notas)**
 
