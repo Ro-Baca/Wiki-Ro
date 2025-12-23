@@ -2,7 +2,7 @@
 
 Este repositorio aloja las notas fuente de mi **[Jardín Digital](https://github.com/MaggieAppleton/digital-gardeners)**. A diferencia de un blog tradicional, esta es una colección de pensamientos en evolución, apuntes de investigación y experimentos de mi intereses personal.
 
-**[Visita el Jardín aquí](https://ro-baca.github.io/Notas)**
+##**[Visita el Jardín aquí](https://ro-baca.github.io/Notas)**
 
 ---
 
@@ -16,10 +16,10 @@ Uso este espacio para documentar mi proceso de aprendizaje. El contenido está o
 **Temas Principales:**
 - **Robótica e Interacción Social**
 - **Linux y Open Source**
-- **Bitácora de desarrollo de mis proyectos**
+- **Bitácora de desarrollo de proyectos**
 - **Segundo Cerebro y PKM**
 
-### 🛠️ Cómo está construido
+## Cómo está construido
 Este jardín se cultiva utilizando herramientas de código abierto:
 - **[Obsidian](https://obsidian.md/):** Para escribir, pensar y conectar notas localmente.
 - **[Quartz](https://quartz.jzhao.xyz/):** Para compilar y publicar el jardín en la web.
