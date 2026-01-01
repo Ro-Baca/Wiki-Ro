@@ -1,5 +1,5 @@
 ---
-title: Intro quartz
+title: Intro
 draft: false
 tags:
   - Quartz
