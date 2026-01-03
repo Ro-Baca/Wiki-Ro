@@ -1,5 +1,5 @@
 ---
-title: Intro github
+title: Introduccion a github
 tags:
   - apunte
   - Github
@@ -9,20 +9,21 @@ noteOrder: "1"
 ---
 [Github](https://github.com/) es una plataforma en la nube que utiliza el sistema Git para alojar proyectos de software. Es como una red social para desarrolladores donde en lugar de fotos, compartes versiones de tu código.
 
+![[Guthub_logo.png]]
 # ¿Cómo funciona?
 ---
 Se basa en el control de versiones. Permite que varias personas trabajen en el mismo archivo sin sobrescribir el trabajo de los demás, manteniendo un historial de cada cambio realizado.
 
 >[!Info] Git es la herramienta para el control de versiones que vive en tu computadora. GitHub es la plataforma en la nube donde "viven" tus proyectos para que otros puedan verlos o colaborar.
 
-GitHub funciona mediante Snapshots. En lugar de guardar diferentes archivos como *proyecto_final_v2.zip*, Git guarda el estado de todo el proyecto en un momento dado, permitiéndome viajar en el tiempo a cualquier versión anterior.
+GitHub funciona mediante *Snapshots*. En lugar de guardar diferentes archivos como *proyecto_final_v2.zip*, Git guarda el estado de todo el proyecto en un momento dado, permitiéndome viajar en el tiempo a cualquier versión anterior.
 
 # Conceptos básicos 
 ---
 ## Estructura
 - **Repositorio (Repo):** Es la carpeta de tu proyecto. Pero no es una carpeta normal; contiene una carpeta oculta (.git) que registra cada cambio que haces.
 
-- **Local vs. Remoto:**
+- **Repo Local vs. Repo Remoto:**
 	- **Local:** El código que está físicamente en tu computadora.
 	- **Remoto:** El código que está en los servidores de GitHub.
 
@@ -53,3 +54,7 @@ GitHub funciona mediante Snapshots. En lugar de guardar diferentes archivos como
 
 - **README.md:** Es la portada del proyecto, escrita en [[Markdown]], donde explicas qué hace tu código y cómo se usa.
 
+# Referencias
+---
+https://docs.github.com/es/get-started/start-your-journey/about-github-and-git
+https://www.encryptionconsulting.com/education-center/what-is-sha/

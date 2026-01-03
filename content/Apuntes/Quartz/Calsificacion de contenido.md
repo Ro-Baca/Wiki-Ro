@@ -12,7 +12,7 @@ De forma automatica Quartz ordenará el contenido alfabeticamente, ordenand las 
 
 Si deseas tener control en el orden con el que las notas se presentan existe la opción de colocar un prefijo numérico al titulo, haciendo que se ordenen por el valor que tienen antes del nombre.
 
-![[Pasted image 20251221231919.png]]
+![[Contenido_1.png]]
 
 Una alternativa, que puede ser mas limpia es agregar una propiedad llamada **noteOrder** con la cual, podemos colocar un valor numérico a cada nota y así darle una prioridad de aparición en la página.
 

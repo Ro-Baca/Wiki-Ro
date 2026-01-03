@@ -15,7 +15,7 @@ En 2018 ocho científicos de Google publicaron [*Attention is All You Need*](htt
 ---
 El **aprendizaje profundo** se basa en arquitecturas de red neuronal de varias capas, unidades de procesamiento gráfico de alto rendimiento implementadas en la nube o en clústeres, y grandes volúmenes de datos etiquetados para lograr niveles muy altos de precisión en el reconocimiento de texto, voz e imágenes.
 
-![[Pasted image 20251222083103.png]]
+![[LLM_intro.png]]
 
 Los **transformadores** son especialmente eficaces en el control de datos secuenciales, como el texto; permite comprender y generar lenguaje natural para tareas como la generación y traducción. 
 
