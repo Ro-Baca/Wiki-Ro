@@ -1,7 +1,6 @@
 ---
-title: Intro
+title: LLMs
 tags:
-  - apunte
   - Robot
 noteOrder: "1"
 ---

@@ -2,8 +2,7 @@
 title: Home
 ---
 
-Esta es mi libreta electrónica
-Estilo: Cyberpunk Botánico / Solarpunk
+
 
 > [!abstract] Links
 > [Github Ro-Baca](https://github.com/Ro-Baca?tab=repositories)

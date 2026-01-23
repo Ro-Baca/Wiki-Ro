@@ -1,7 +1,6 @@
 ---
 title: Cheatsheet
 tags:
-  - apunte
   - Github
 noteOrder:
 ---

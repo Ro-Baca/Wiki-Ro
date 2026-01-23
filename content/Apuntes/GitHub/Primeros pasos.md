@@ -1,9 +1,9 @@
 ---
-title: Inicio
+title: Primeros pasos en github
 tags:
-  - apunte
   - Github
 noteOrder: "2"
+draft: true
 ---
 El concepto mas importante que hay que entender es el de los **Repositorios**
 

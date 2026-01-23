@@ -1,7 +1,7 @@
 ---
 title: Configuración Básica
 tags:
-  - apunte
+  - Raspberry
 noteOrder: "2"
 ---
 

@@ -1,7 +1,6 @@
 ---
-title: Introduccion a github
+title: Github
 tags:
-  - apunte
   - Github
 noteOrder: "1"
 ---

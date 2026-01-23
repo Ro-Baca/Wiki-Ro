@@ -1,8 +1,8 @@
 ---
 title: Pi Zero
 tags:
-  - apunte
   - hardware
+  - Raspberry
 draft: false
 noteOrder: "4"
 ---

@@ -3,7 +3,6 @@ title: Intro
 draft: false
 tags:
   - PC
-  - apunte
 noteOrder: "1"
 ---
 

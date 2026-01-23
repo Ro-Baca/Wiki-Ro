@@ -1,9 +1,8 @@
 ---
-title: Como editar estilo
+title: Editar estilo
 draft: false
 tags:
   - Quartz
-  - apunte
 noteOrder: "3"
 ---
 

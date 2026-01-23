@@ -2,7 +2,7 @@
 title: Pi Pico
 tags:
   - hardware
-  - apunte
+  - Raspberry
 noteOrder: "3"
 ---
 **NO es un ordenador Linux.** Es un **microcontrolador**, similar a un Arduino, pero mucho más potente y con lógica de 3.3V.

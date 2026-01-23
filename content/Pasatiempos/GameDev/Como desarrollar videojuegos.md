@@ -2,7 +2,6 @@
 title: ¿Cómo aprender?
 tags:
   - videojuego
-  - apunte
 noteOrder: "1"
 ---
 ## Como aprender desarrollo de juegos:

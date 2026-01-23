@@ -1,8 +1,8 @@
 ---
 title: Pi 5
 tags:
-  - apunte
   - hardware
+  - Raspberry
 noteOrder: "5"
 ---
 

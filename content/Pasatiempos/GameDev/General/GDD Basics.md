@@ -2,7 +2,6 @@
 title: Game Design Documents
 tags:
   - videojuego
-  - apunte
 noteOrder: "1"
 ---
 

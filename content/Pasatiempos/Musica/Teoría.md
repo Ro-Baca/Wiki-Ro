@@ -2,7 +2,6 @@
 title: Teoría
 tags:
   - Musica
-  - apunte
 draft: false
 noteOrder: "1"
 ---

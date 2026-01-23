@@ -1,7 +1,6 @@
 ---
 title: Clasificar contenido en el explorador
 tags:
-  - apunte
   - Quartz
 noteOrder: "4"
 ---

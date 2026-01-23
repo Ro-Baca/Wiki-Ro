@@ -1,7 +1,6 @@
 @use "./base.scss";
 
-/* 
-    CYBERPUNK
+/* CYBERPUNK
 */
 
 /* VARIABLES DE COLOR */
@@ -120,4 +119,3 @@ strong, b { font-weight: 800; }
 .graph-view-container .node circle { fill: $neon-cyan-main !important; }
 [saved-theme="dark"] .graph-view-container .link { stroke: $neon-cyan-main !important; opacity: 0.3; }
 [saved-theme="light"] .graph-view-container .link { stroke: $cyan-ink !important; opacity: 0.2; }
-

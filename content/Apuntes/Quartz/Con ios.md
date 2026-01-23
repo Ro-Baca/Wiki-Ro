@@ -1,7 +1,6 @@
 ---
 title: Usar IOs
 tags:
-  - apunte
   - Quartz
 noteOrder: "5"
 ---

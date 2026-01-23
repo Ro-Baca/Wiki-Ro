@@ -2,7 +2,7 @@
 
 Este repositorio aloja las notas fuente de mi **[Jardín Digital](https://github.com/MaggieAppleton/digital-gardeners)**. A diferencia de un blog tradicional, esta es una colección de pensamientos en evolución, apuntes de investigación y experimentos de mi intereses personal.
 
-##**[Visita el Jardín aquí](https://ro-baca.github.io/Wiki-Ro/)**
+[Red de Pensamientos](https://ro-baca.github.io/Wiki-Ro/)
 
 ---
 
@@ -25,5 +25,5 @@ Este jardín se cultiva utilizando herramientas de código abierto:
 - **[Quartz](https://quartz.jzhao.xyz/):** Para compilar y publicar el jardín en la web.
 
 ---
-*Nota: Este repositorio contiene los archivos Markdown crudos. Para la mejor experiencia de lectura y navegación, por favor visita el sitio web*
+*Nota: Este repositorio contiene los archivos [[Markdown]] crudos. Para la mejor experiencia de lectura y navegación, por favor visita el sitio web*
 

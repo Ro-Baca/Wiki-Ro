@@ -1,10 +1,9 @@
 ---
-title: Resumen
+title: Raspberry Pi
 tags:
   - Raspberry
   - hardware
   - linux
-  - apunte
 noteOrder: "1"
 ---
 # Raspberry Pi
