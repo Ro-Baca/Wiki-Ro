@@ -1,7 +1,7 @@
 ---
 title: LLMs
 tags:
-  - Robot
+  - software
 noteOrder: "1"
 ---
 # ¿Qué es?
