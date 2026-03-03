@@ -3,7 +3,7 @@ title: Editar estilo
 draft: false
 tags:
   - Quartz
-noteOrder: "3"
+noteOrder: "2"
 ---
 
 ## Archivos 

@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Componentes
 draft: false
 tags:
   - PC

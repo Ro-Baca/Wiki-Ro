@@ -2,7 +2,7 @@
 title: Clasificar contenido en el explorador
 tags:
   - Quartz
-noteOrder: "4"
+noteOrder: "3"
 ---
 > [!INFO] Nota
 > El método original esta en la pagina de [draftz](https://draftz.felixnie.com/Digital-Garden/Sorting-Objects-in-Explorer)

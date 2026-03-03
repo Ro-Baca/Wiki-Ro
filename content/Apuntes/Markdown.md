@@ -11,7 +11,7 @@ Al ser [[Open Source]] puede ser interpretado por cualquier editor de texto. No 
 - Original, creado por **Jhon Gruber**.
 - Multi-Markdown, usado en multiples editores de texto.
 - Markdown extra, las funciones basicas y adicionales para PHP.
-- Github Markdown, usado especialmente por [[Github]]. 
+- Github Markdown, usado especialmente por [[1 Github]]. 
 
 # Conceptos Básicos
 ---
