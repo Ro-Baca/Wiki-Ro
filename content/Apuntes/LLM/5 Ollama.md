@@ -90,9 +90,16 @@ ollama show ModelName
 # ModelFile
 Una alternativa a guardar y cargar constantemente tus sesiones para tus modelos es usar los archivos llamados Modelfiles (así deben llamarse siempre, no tienen extensión).
 
-El archivo siempre debe iniciar con `FROM ModelName` por ejemplo `FROM gemma3:12b-it-qat`, después debes escribir los valores wque quieres modificar usando los identificadores correctps:
+El archivo siempre debe iniciar con `FROM ModelName` por ejemplo:
+
+`FROM gemma3:12b-it-qat` 
+
+Después debes escribir los valores que quieres modificar usando los identificadores correctos:
+
 `PARAMETER` -> Para identificar parámetros del modelo.
+
 	`PARAMETER num_ctx 1000` configura el contexto que toma el modelo en 1000
+
 	`PARAMETER temperature 0.5` configura la [temperatura](obsidian://open?vault=content&file=Apuntes%2FLLM%2F3%20Configuraci%C3%B3n%20Modelo%20local) del modelo en 0.5
 	
 `SYSTEM` -> Para identificar *system messages*, debe ser en una sola linea o usar """.
@@ -103,6 +110,7 @@ El archivo siempre debe iniciar con `FROM ModelName` por ejemplo `FROM gemma3:12
 
 Para crear modelos con Modelfile debemos usar un comando como el siguiente:
 ``` Bash
+
 ollama create ModelName -f ./Modelfile # Si el Modelfile esta en otra dirección es importante colocar el Path correcto.
 
 ollama push # Empuja el modeloespecifico al "registry"
