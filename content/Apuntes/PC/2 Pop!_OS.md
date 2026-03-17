@@ -22,22 +22,29 @@ Cuenta con la pop! shop donde puedes encontrar los packetes de software que quie
 
 https://system76.com/pop
 
-## Commando utilies de linux
+## Comandos utilies de linux
 ---
 
-| Comando          | Que hace?                           |
-| ---------------- | ----------------------------------- |
-| sudo reboot      | Reiniciar                           |
-| sudo apt update  | Actualizar                          |
-| sudo apt upgrade | Upgradear                           |
-| sudo nano /PATH  | Modificar archivo                   |
-| neofetch         | ver info del sistema                |
-| htop             | ver rendimiento del sistema         |
-| systemd-analyze  | ver tiempo de inicio                |
-| glmark2          | ver puntaje de renderizado          |
-| radeontop        | ver el rendimiento actual de la CPU |
+``` Batch
+sudo reboot # Reinica el sistema
 
+sudo apt update _app_ # Actualiza _app_
+sudo apt upgrade # Upgradea _app_
 
+sudo apt install _app_ # Instala _app_
+sudo apt remove --purge _app_ # Desinstalla _app_
+sudo apt autoremove # Limpia cualquier archivo o dependencia sobrante 
 
+sudo nano /PATH # Modifica o crea un archivo en el PATH
+```
 
+## Comandos de programas de terceros
+---
+``` Batch
+glmark2 # Para ver un puntaje de renderizado de la pc
+systemd-analyze # Para ver el tiempo de inicio del sistema
+htop # Para ver el rendimiento del sistema
+neofetch # Para ver informacion del sistema
+sudo amdgpu_top --gui # Para ver una GUI con graficas de rendimiento vs tiempo
+```
 
