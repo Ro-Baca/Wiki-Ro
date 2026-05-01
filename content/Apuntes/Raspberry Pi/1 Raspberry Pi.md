@@ -11,9 +11,9 @@ noteOrder: "1"
 ## Recursos Oficiales
 Enlaces esenciales para configuración y documentación técnica.
 
-* 🌐 **Sitio Web Oficial:** [raspberrypi.com](https://www.raspberrypi.com/)
-* 📚 **Documentación:** [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
-* 💾 **Software:** [Raspberry Pi Imager](https://www.raspberrypi.org/software/) (Necesario para flashear las tarjetas SD).
+* **Sitio Web Oficial:** [raspberrypi.com](https://www.raspberrypi.com/)
+* **Documentación:** [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
+* **Software:** [Raspberry Pi Imager](https://www.raspberrypi.org/software/) (Necesario para flashear las tarjetas SD).
 
 ---
 ## ¿Qué es?

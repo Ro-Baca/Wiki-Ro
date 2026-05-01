@@ -5,24 +5,50 @@ tags:
   - software
 noteOrder: "3"
 ---
-La Pc cuenta con [Ollama](/home/ro/Documents/Obsidian/Notas/content/Apuntes/LLM/5 Ollama.md) para correr localmente modelos de LLM
+La Pc cuenta con [Ollama](obsidian://open?vault=content&file=Apuntes%2FLLM%2F5%20Ollama) para correr localmente modelos de LLM
 
 Acualmente cuenta con los siguientes modelos:
 
-# Qwen3:8B
+# Qwen3.5:9B
 ---
-[Resumen del modelo](https://ollama.com/library/qwen3)
-Es el modelo de cabecera par el dia a dia y la programacion dura.
+[Resumen del modelo](https://ollama.com/library/qwen3.5)
 
-Es mi herramienta principal para mis proyectos. Cuando necesito programar en Python o C++, rutinas de interacción, o resolver problemas de código, su "modo de pensamiento" otorga el razonamiento paso a paso más agudo.
+**Alibaba Cloud / Qwen Team (China).**
 
-Es el mejor equilibrio entre velocidad (entra completo en la VRAM de la RX 6750XT) y capacidad de resolución de problemas lógicos.
-Comando para descargar:
-`ollama pull qwen3:8b`
+Lanzado a principios de 2026, Qwen3.5-9B ha sacudido la comunidad al competir frente a frente con modelos masivos de más de 120 mil millones de parámetros en benchmarks académicos y científicos. 
 
-# Gemma2:9B
+Sus puntos fuertes son su arquitectura multimodal nativa (entiende visión y texto profundamente entrelazados), su gigantesca ventana de contexto y un desempeño multilingüe líder en la industria. Es un modelo de peso medio que golpea como un peso pesado. Perfecto como agente de inteligencia general para equipos de gama media. 
+
+**Brilla en el procesamiento de documentos inmensos, desarrollo de aplicaciones globales multilingües y sistemas autónomos que deban analizar tanto imágenes como texto con alta precisión.**
+
+# DeepSeek-R1:8B
 ---
-[Resumen del modelo](https://ollama.com/library/gemma2)
-Un modelo más serio, entrenado por Google con un enfoque en precisión y estructura del lenguaje.
+[Resumen del modelo](https://ollama.com/library/deepseek-r1)
 
-s el asistente perfecto para el trabajo escrito. Cuando esté procesando la retroalimentación de un asesor para aplicar correcciones a la tesis, o necesites resumir _papers_ densos de ingeniería, Gemma 2 mantendrá un tono formal y preciso. También es excelente para redactar y clasificar las notas que alimentan mi jardín digital.
+**DeepSeek (China).**
+
+Este modelo es una versión destilada de la familia de razonamiento R1 de DeepSeek. Su principal punto fuerte radica en que hereda la capacidad de pensar paso a paso de el R1 original, pero compactado en 8 mil millones de parámetros . Esto le permite exhibir habilidades de lógica avanzada y matemáticas que normalmente solo se ven en modelos de más de 30B de parámetros, manteniendo unos requisitos de memoria gráfica muy bajos.
+
+**Ideal para tareas que requieren lógica profunda, resolución de problemas matemáticos o programación a nivel local sin consumir excesivos recursos . Perfecto para asistentes donde prefieras que la IA "piense" y verifique su razonamiento antes de escupir una respuesta.**
+
+# Phi-4-Mini:3.8
+---
+[Resumen del modelo](https://ollama.com/library/phi4-mini)
+
+**Microsoft (Estados Unidos).**
+
+Con tan solo 3.84 mil millones de parámetros, este es uno de los modelos "pequeños" más agresivos del mercado actual. Su mayor fortaleza es la densidad de su entrenamiento basado fuertemente en datos sintéticos de alta calidad y su impresionante capacidad multimodal.
+
+Supera a muchos modelos que lo doblan en tamaño y ofrece una enorme ventana de contexto. Además, trae mejoras críticas en atención y vocabulario que lo hacen excelente en escenarios multilingües.
+
+**Diseñado específicamente para entornos con restricciones extremas de memoria y latencia (como ejecución directa en teléfonos móviles, laptops de gama baja o dispositivos _edge_). Es brillante para análisis de documentos locales, aplicaciones integradas y tareas de razonamiento lógico rápido.**
+
+# DeepSeek-Coder-V2:16B
+---
+[Resumen del modelo](https://ollama.com/library/deepseek-coder-v2)
+
+**DeepSeek (China).**
+
+Este modelo (la versión *Lite* de 16B de parámetros) utiliza una arquitectura de Mezcla de Expertos (MoE). Aunque tiene 16 mil millones de parámetros en total, solo activa una pequeña fracción de ellos por cada token generado, lo que lo hace increíblemente rápido. Su punto fuerte absoluto es el dominio de la programación: ha sido entrenado masivamente en repositorios de código y domina cientos de lenguajes de programación, superando incluso a modelos cerrados mucho más grandes en benchmarks de desarrollo de software.
+
+**Es la herramienta definitiva para desarrolladores. Ideal para integrarlo directamente en tu editor de código para actuar como un "copiloto" avanzado local. Excelente para autocompletado complejo, detección de _bugs_, análisis de repositorios completos y generación de _scripts_ técnicos.**

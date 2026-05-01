@@ -42,9 +42,13 @@ sudo nano /PATH # Modifica o crea un archivo en el PATH
 ---
 ``` Batch
 glmark2 # Para ver un puntaje de renderizado de la pc
+
 systemd-analyze # Para ver el tiempo de inicio del sistema
+
 htop # Para ver el rendimiento del sistema
+
 neofetch # Para ver informacion del sistema
+
 sudo amdgpu_top --gui # Para ver una GUI con graficas de rendimiento vs tiempo
 ```
 
