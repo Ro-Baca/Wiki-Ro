@@ -2,6 +2,7 @@
 title: Llorar
 tags:
   - escritura
+draft: true
 ---
 ---
 Pedir ayuda o escape  
