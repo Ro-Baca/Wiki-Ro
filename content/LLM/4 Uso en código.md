@@ -23,6 +23,7 @@ print(result.final_output)
 ```
 
 Esto es muy parecido a como se usan las API de servicios de pago, la diferencia principal es se usa `base_url = "http:localhost:1234/ui"`
+
 >[!warning] Es importante poner esta linea, si no el request se mandara al servicio de pago
 
 Si estas usando LM Studio, es importante, en la ventana de Developer, cambiar el estado del servidor de **Stop** a **Running**. De esta forma se genera un servidor local para poder hacer el request.

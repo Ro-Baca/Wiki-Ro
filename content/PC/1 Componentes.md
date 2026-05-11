@@ -24,7 +24,10 @@ noteOrder: "1"
 **Gabinete:**  Cooler Master NR200
 
 ---
-**OS:** Pop!_OS 22.04 LTS
+**OS:** Pop!_OS 22.04 
+
 **OS Type:** 64-bit
+
 **GNOME Version:** 42.9
+
 **Windowing System_:** X11

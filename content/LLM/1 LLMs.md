@@ -5,7 +5,7 @@ tags:
 noteOrder: "1"
 ---
 # ¿Qué es?
-Un **Large Lenguage Model** son modelos de [aprendizaje profundo](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-deep-learning/) entrenados con cantidades inmensas de datos. Diseñados para entender y generar lenguaje natural o textos que asemejen el comportamiento humano.
+Un **Large Lenguaje Model** son modelos de [aprendizaje profundo](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-deep-learning/) entrenados con cantidades inmensas de datos. Diseñados para entender y generar lenguaje natural o textos que asemejen el comportamiento humano.
 
 # ¿Cómo funcionan?
 En 2018 ocho científicos de Google publicaron [*Attention is All You Need*](https://arxiv.org/pdf/1706.03762), un estudio histórico sobre el aprendizaje automático. En el documento se desarrolla la arquitectura del **transformador**, un innovador marco de red neuronal que puede administrar y comprender información textual compleja con mayor precisión y escala, siendo la base de algunos de los LLM más potentes, como la serie GPT y BERT.

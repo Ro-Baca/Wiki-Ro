@@ -7,22 +7,22 @@ noteOrder: "1"
 ---
 Markdown es un lenguaje de marcado ligero. Su objetivo es que puedas dar formato a un texto (poner negritas, títulos, listas) usando caracteres simples, de modo que el documento sea fácil de leer tanto en su forma "cruda" como cuando ya está procesado. Es mucho más rápido que usar un editor visual, como Word, y mucho más limpio que escribir código HTML.
 
-Al ser [[Open Source]] puede ser interpretado por cualquier editor de texto. No existe un estandar definido ya que existen variaciones o **sabores** de Markdown; estan:
+Al ser [[Open Source]] puede ser interpretado por cualquier editor de texto. No existe un estándar definido ya que existen variaciones o **sabores** de Markdown están:
 - Original, creado por **Jhon Gruber**.
 - Multi-Markdown, usado en multiples editores de texto.
-- Markdown extra, las funciones basicas y adicionales para PHP.
+- Markdown extra, las funciones básicas y adicionales para PHP.
 - Github Markdown, usado especialmente por [[1 Github]]. 
 
 # Conceptos Básicos
 ---
-## Parrafos
+## Párrafos
 Para crear párrafos solo es necesario hacer doble **enter** y se creara una distinción entre el primer y segundo párrafo.
 
 Para hacer Breaks en el texto, solo se debe de colocar un doble espacio y el texto que sigue se situara en la siguiente línea.
 
 >[!Attention]  Esto solo es el caso para MD Basic, interpretes como [[Obsidian]], no lo consideran
 
-## Titulos
+## Títulos
 Los títulos o **encabezados** separan el contenido de las notas en secciones, existen dos formas de marcarlos:
 ```Markdown
 Header 1
@@ -40,7 +40,7 @@ Header 2
 6 es el maximo posible
 ```
 
-## Enfasis
+## Énfasis
 El texto con énfasis se marca de la siguiente forma:
 ```Markdown
 **Este texto es negrita**

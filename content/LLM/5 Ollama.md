@@ -4,9 +4,9 @@ tags:
   - software
 noteOrder: "5"
 ---
-Ollama es una herramienta que te puede facilitar la ejecución de modelos locales en tu computadora. Es para un uso principiante, con un poco de dificultades ya que corre principalmente en la terminal, aunque tiene su interfaz grafica, esto es reciente.
+Ollama es una herramienta que te puede facilitar la ejecución de modelos locales en tu computadora. Es para un uso principiante, con un poco de dificultades ya que corre principalmente en la terminal, aunque tiene su interfaz gráfica, esto es reciente.
 
-En la pagina de [Ollama]([https://ollama.com/](https://ollama.com/)) podemos encontrar un catalogo de los modelos que podemos encontrar, **todos los modelos en Ollama estan cuantizados.**
+En la pagina de [Ollama]([https://ollama.com/](https://ollama.com/)) podemos encontrar un catalogo de los modelos que podemos encontrar, **todos los modelos en Ollama están cuantizados.**
 
 >[!Tip]-
 Es importante leer el Readme de la pagina del modelo para conocer completamente las capacidades y necesidades del modelo.
@@ -33,12 +33,12 @@ Analisa esta imagen C:/Imagenes/ejemplo.jpg
 Con el comando show  podemos ver diferentes valores que están configurados en nuestro modelos.
 `/show info`: muestra detalles generales del modelo.
 `/show parameters`: muestra parámetros actuales del modelo (**stop, temperatura, top_k, top_p**).
-`/show system`:  muestra los *system mesages* que estan configurados en el modelo
+`/show system`:  muestra los *system messages* que están configurados en el modelo
 `/show license`: muestra la licencia del modelo 
 
 ## Set
 Los comandos de set, nos permiten modificar los valores que tiene el modelo.
-`/set verbose`: Hace que al final de una respuesta el modelo te de las estadísticas de su respuesta (tiempo de duracion, tiempo de carga, ratio de evaluacion del prompt, etc.).
+`/set verbose`: Hace que al final de una respuesta el modelo te de las estadísticas de su respuesta (tiempo de duración, tiempo de carga, ratio de evaluación del prompt, etc.).
 `/set parameter`:
 `/set system`:
 
@@ -98,9 +98,9 @@ Después debes escribir los valores que quieres modificar usando los identificad
 
 `PARAMETER` -> Para identificar parámetros del modelo.
 
-	`PARAMETER num_ctx 1000` configura el contexto que toma el modelo en 1000
+`PARAMETER num_ctx 1000` configura el contexto que toma el modelo en 1000
 
-	`PARAMETER temperature 0.5` configura la [temperatura](obsidian://open?vault=content&file=Apuntes%2FLLM%2F3%20Configuraci%C3%B3n%20Modelo%20local) del modelo en 0.5
+`PARAMETER temperature 0.5` configura la [temperatura](obsidian://open?vault=content&file=Apuntes%2FLLM%2F3%20Configuraci%C3%B3n%20Modelo%20local) del modelo en 0.5
 	
 `SYSTEM` -> Para identificar *system messages*, debe ser en una sola linea o usar """.
 

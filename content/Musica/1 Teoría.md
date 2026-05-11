@@ -2,6 +2,6 @@
 title: Teoría
 tags:
   - Musica
-draft: false
+draft: true
 noteOrder: "1"
 ---

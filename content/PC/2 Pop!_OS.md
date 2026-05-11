@@ -11,7 +11,7 @@ noteOrder: "2"
 Pop! os es una distribución de Linux basada en Ubuntu, desarrollada y mantenida por el fabricante de computadoras estadounidense **System76**. 
 Aunque esta diseñado para laptops, es posible usarla para cualquier tipo de computadora.
 
-El entorno grafico esta hecho con una version personalizada de **GNOME**  llamado COSMIC y sus ventajas son:
+El entorno gráfico esta hecho con una version personalizada de **GNOME**  llamado COSMIC y sus ventajas son:
 - Auto-tiling
 - Workspaces
 - Launcher con la tecla super
@@ -22,7 +22,7 @@ Cuenta con la pop! shop donde puedes encontrar los packetes de software que quie
 
 https://system76.com/pop
 
-## Comandos utilies de linux
+## Comandos útilies de linux
 ---
 
 ``` Batch

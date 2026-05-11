@@ -10,7 +10,7 @@ tags:
 ---
 - Hilo encerado grueso
 - Aguja romana
-- Punzon
+- Punzón
 - Hojas
 - Papel kraft
 - 4 Broches/naves
@@ -27,10 +27,10 @@ tags:
     1. Tomas una hoja y la doblas a la mitad
     2. Medir y marcar 1 pulgada desde afuera hacia el centro por ambos lados
     3. Medir y marcar 1.5 pulgadas desde la marca anterior al centro, de ambos lados
-    4. Perforar los agujeros con el punzon, usando el carton para proteger la mesa
+    4. Perforar los agujeros con el punzón, usando el carton para proteger la mesa
 - Preparar el cuaderno
-    1. Acomodamos la guia con las demas hojas y el craft y las prensamos con los broches
-    2. Perforar usando la Guia
+    1. Acomodamos la guía con las demás hojas y el craft y las prensamos con los broches
+    2. Perforar usando la Guía
     3. Cortar el hilo para usar (3 veces el ancho del cuaderno)
 - Hacer el nudo
     1. Pasar el Hilo por la aguja, dejando 3 cm extra
@@ -43,8 +43,8 @@ tags:
     4. Tomar ambos extremos y jalar a los lados para tensar
     5. Regresamos por el tercer agujero (por dentro) y el segundo agujero (por fuera)
     6. Tensamos si vemos que se afloja, con cuidado de no romper las hojas
-    7. Tomamos el extremo que quedo cuando se inicio la costura y pasamos el resto del hilo por detras
-    8. Hacesmo un nudo, pasando el hilo por debajo y lo sacamos por el centro
+    7. Tomamos el extremo que quedo cuando se inicio la costura y pasamos el resto del hilo por detrás
+    8. Hacemos un nudo, pasando el hilo por debajo y lo sacamos por el centro
     9. Apretamos bien el nudo
     10. Salimos por el primer agujero a la tapa
     11. psamos el hilo por debajo y lo cortamos
