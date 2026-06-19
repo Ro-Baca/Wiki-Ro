@@ -3,7 +3,7 @@ title: AI local
 tags:
   - PC
   - software
-noteOrder: "3"
+noteOrder: "5"
 ---
 La Pc cuenta con [Ollama](obsidian://open?vault=content&file=Apuntes%2FLLM%2F5%20Ollama) para correr localmente modelos de LLM
 
