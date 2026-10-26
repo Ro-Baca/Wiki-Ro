@@ -66,10 +66,64 @@ Para instalar una aplicación con Flatpak manualmente solo es necesario ejecutar
 ``` Bash
 flatpak install https://dl.flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
 ```
+
 En el repositorio Flathub se puede copiar la referencia `.flatpakref` de una aplicación utilizando su botón **INSTALL**.
 
-## Trobleshooting
+Para visualizar una lista de las aplicaciones instaladas usando flatpack:
+``` Bash
+flatpak list --app
+```
 
+Para buscar un programa especifico instalado en tu computadora puedes usar el comando:
+``` Bash
+flatpak list | grep -i "discord"
+```
+
+Para correr una aplicacion que tengas descargada desde flatpack puedes usar:
+``` Bash
+flatpak run com.valvesoftware.Steam
+```
+
+
+
+
+# Integrarlo al entorno un ejecutable
+---
+**Usaremos Google Antigraity como ejemplo** 
+
+1. Mueve la carpeta a una ubicación permanente:
+Desde tu terminal, mueve la carpeta descomprimida donde tienes el ejecutable al directorio `/opt` para mantener el sistema organizado:
+``` Bash
+sudo mv Antigravity /opt
+```
+
+2. Haz el binario accesible desde la terminal:
+Crea un enlace simbólico para que puedas lanzar la plataforma escribiendo su nombre en la consola:
+``` Bash 
+sudo ln -s /opt/Antigravity/antigravity /usr/local/bin/antigravity
+```
+
+3. Crea el archivo de acceso directo:
+Genera un archivo `.desktop` para que la aplicación aparezca en tu menú gráfico principal:
+``` Bash
+nano ~/.local/share/applications/antigravity.desktop
+```
+
+Pega esta configuración en el editor:
+``` TOML
+[Desktop Entry]
+Name=Google Antigravity
+Exec=/opt/Antigravity/antigravity
+Type=Application
+Terminal=false
+Icon=/opt/Antigravity/icon.png
+```
+
+>[!bug] Si no tienes el archiov png, debes de descargarlo de la pagina oficial y agregarlo a la carpeta de /opt/Antigravity
+
+
+# Trobleshooting
+---
 Para revisar las aplicaciones que tienes instaladas usando flatpack usa el comando.
 ```Bash
 flatpak list

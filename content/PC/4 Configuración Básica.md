@@ -51,3 +51,29 @@ user = "ro"
 
 Guarda los cambios (`Ctrl+O`, `Enter`, `Ctrl+X`).
 
+# Revisar espacio en hardrive
+---
+Vamos a usar una herramienta visual que nos permite ver que folder usa mas espacio en memoria con la herramienta `ncdu`.
+``` Bash
+sudo apt install ncdu
+ncdu /
+```
+
+Si prefieres ver un resumen general del espacio en memoria, puedes usar:
+``` Bash
+df -h -x tmpfs -x devtmpfs -x squashfs
+```
+
+El resultado te da los parametros:
+- **Size:** Capacidad total.
+- **Used:** Espacio usado.
+- **Avail:** Espacio disponible.
+- **Use%:** Porcentaje de espacio usado.
+- **Mounted on `/`:** Tarjeta donde esta montado.
+
+Para revisar la salud general del disco duro y la capacidad del Hardware montado usamos
+``` Bash
+lsblk
+```
+
+esto muestra el disco duro y sus particiones (nvme0n1).
