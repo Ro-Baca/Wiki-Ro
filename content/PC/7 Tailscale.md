@@ -1,5 +1,5 @@
 ---
-tit: Tailscale
+title: Tailscale
 tags:
   - PC
   - OpenSource
