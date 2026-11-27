@@ -77,14 +77,12 @@ La iniciativa fue bien acogida y al poco tiempo las jacarandas fueron reproducid
 
 ## Introducción
 
-Los arboles de Sakura son uno de los simbolos mas reconocibles de la cultura Japonesa, aunque solo sucede una vez al año durante la primavera, estos arboles pintan de rosa la isla nipona, evento que provoca aprecias lo bella y efímera que puede ser la vida.
+Los arboles de Sakura son uno de los simbolos mas reconocibles de la cultura Japonesa, aunque solo sucede una vez al año durante la primavera, estos arboles pintan de rosa la isla nipona, evento que provoca apreciar lo bella y efímera que puede ser la vida.
 
-En México tenemos algo similar y durante las mismas fechas en la Ciudad de México las calles adquieren un color morado lavanda proviniente de los petalos de el arbol de Jacarandas, y todo gracias a un Japones!
+En la ciudad de México tenemos algo similar ya que durante las mismas fechas las calles adquieren un color morado lavanda proveniente de los pétalos del árbol de Jacarandas. Y todo gracias a uno de los primeros inmigrantes japoneses en llegar a América Latina como un hombre libre.
 
+Todo comienza en 188 cuando Matsumoto Tatsuguro, un habilidoso arquitecto  paisajista que había trabajado para el Palacio Imperia, es contratado por un empresario de origen Peruano para crear el primer jardín Japonés en América del Sur. Para 1896, ya había recorrido gran parte de Sudamerica y creando una reputación por sus hermosos trabajos, Matsumoto llega a México para trabajar en la hacienda de Don José Landero y Cos, en el estado de Hidalgo. Con el embellecimiento de los jardines que logró en este lugar, se hizo de buena reputación y fue así que, finalmente se estableció en la Capital, donde el propio presidente Porfirio Díaz solicitó que se hiciera cargo de la residencia presidencial en Chapultepec, y del bosque que la rodeaba.
 
+Tras la renuncia de Porfirio Díaz la carrera de Matsumoto en México no termino, el mandatario Francisco I. Madero respaldó el trabajo de “don Moto”, como le decía de cariño y este se mantuvo trabajando para los posteriores regentes del país; durante el mandato del presidente Pascual Ortiz Rubio; entre 1930 y 1932, Don Moto recibió el encargo de plantar en la capital ”cerezos japoneses” como símbolo de amistad entre los dos países, igual que había sucedido en Washington en 1912. La respuesta del experto fue contundente, pues el florecimiento del árbol de cerezo requiere un cambio de temperatura mas brusco del que ofrecía la Ciudad de México, sin embargo, gracias a su experiencia en Sudamérica, aconsejó traer un árbol que podría reproducirse en sus viveros sin mucha dificultad: la _Jacaranda mimosifolia_.
 
-I want to do some fixes to the app functionality:
-
-1. Add a new box in the tool configuration space for the resulting document name, by default make this the tool name + _ + the first file uploaded name + the number of pdf created in case there are (like in split). Ej: split_pdforge_sample_report_1.pdf
-2. Make the default folder that opens when clicking SelectFile  to be the Download folder.
-3. Add Japanese lenguaje in the translation tool.
+El tiempo ha difuminado algunos detalles de la solicitud del presidente y su ejecución, pero hoy las jacarandas se alzan entre la vegetación de la ciudad como un frondoso dosel que anuncia la llegada de la primavera.
